@@ -1,0 +1,79 @@
+ body {
+  color: #000;
+  font-family: roboto, tahoma, arial;
+  font-size: 13px;
+  background: url("https://coloredbrain.com/wp-content/uploads/2016/07/login-background.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  width: 900px;
+  margin-top: -200px;
+  margin-left: -450px;
+  left: 50%;
+  top: 50%;
+  position: absolute;
+}
+
+.table {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #f2f2f2;
+  border-width: 1px;
+  background-color: #ffffff;
+}
+
+.extborder {
+  padding: 25px;
+  line-height: 10px;
+}
+
+.titulos{
+  color: #ffffff;
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 6px;
+  line-height: 5px;
+  background-color: #0375B2;
+  width: 60px;
+  font-size: 14px;
+}
+
+.titulosV2{
+  color: #ffffff;
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 6px;
+  line-height: 5px;
+  background-color: #0375B2;
+  width: 130px;
+  font-size: 14px;
+}
+
+.contenido{
+  font-size: 13px;
+}
+
+.tituloPrincipal{
+  font-size: 24px;
+  font-weight: bold;
+  color: #0D5A75;
+}
+
+.boxSize1{
+  width: 110px;
+}
+
+.boxSize2{
+  width: 70px;
+}
+
+.espacioV1{
+  height: 10px;
+  padding: 1px;
+}
+
+.espacioV2{
+  height: 35px;
+  padding: 20px;
+}
